@@ -41,7 +41,7 @@
   "homepage": "https://github.com/n5ro/aframe-physics-system#readme",
   "dependencies": {
     "ammo-debug-drawer": "^0.1.0",
-    "cannon-es": "^0.9.1",
+    "cannon-es": "npm:cannon",
     "three-to-ammo": "^0.1.0",
     "three-to-cannon": "^3.0.2",
     "webworkify": "^1.4.0"
